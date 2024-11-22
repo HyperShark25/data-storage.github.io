@@ -123,7 +123,7 @@
 
 }
 /* PC Version */
-@media (min-width: 1061px) {
+@media (min-width: 1061px) and (max-width: 1800px) {
     body {
         width: auto;
         height: auto;
